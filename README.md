@@ -7,7 +7,7 @@ This guideline (Step 1 - Step 3 ) applies for people using AWS ubuntu based EC2 
 
 *N.B. Ensure to choose the basic free support tier*.
 
-* Go to the AWS website: [AWS](https:// aws.amazon.com/free).
+* Go to the AWS website: [AWS](https://aws.amazon.com/free).
 
    
 * Click on the "Create an AWS Account" button located at the top right corner of the page.
@@ -110,7 +110,7 @@ Note the folder ( on your pc ) wherein the key pair is downloaded to (usually in
 
 ## STEP 4: TESTNET
 
-* Visit the testnet documentation page on Github; {DaNetwork}(https://github.com/DaNetworkTech/TestNet)
+* Visit the testnet documentation page on Github; [DaNetwork](https://github.com/DaNetworkTech/TestNet)
 
 * Clone the github page to your current working directory; ` git clone https://github.com/DaNetworkTech/TestNet `
 
