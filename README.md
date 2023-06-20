@@ -7,40 +7,40 @@ This guideline (Step 1 - Step 3 ) applies for people using AWS ubuntu based EC2 
 
 *N.B. Ensure to choose the basic free support tier*.
 
-1. Go to the AWS website: [AWS](https:// aws.amazon.com/free).
+* Go to the AWS website: [AWS](https:// aws.amazon.com/free).
 
    
-2. Click on the "Create an AWS Account" button located at the top right corner of the page.
+* Click on the "Create an AWS Account" button located at the top right corner of the page.
 
 
-3. You will be redirected to the account creation page. Fill in your email address and choose a password for your AWS account.
+* You will be redirected to the account creation page. Fill in your email address and choose a password for your AWS account.
 
 
-4. Click on the "Continue" button to proceed.
+* Click on the "Continue" button to proceed.
 
 
-5. Provide your contact information and agree to the AWS Customer Agreement.
+* Provide your contact information and agree to the AWS Customer Agreement.
 
 
-6. Choose the "Personal" account type and click on the "Continue" button.
+* Choose the "Personal" account type and click on the "Continue" button.
 
 
-7. Enter your personal information, including your name, address, and phone number.
+* Enter your personal information, including your name, address, and phone number.
 
 
-8. Review the details you have entered and make sure they are accurate.
+* Review the details you have entered and make sure they are accurate.
 
 
-9. Provide your payment information. Note that AWS requires a valid credit card to create an account, even for the free tier.
+* Provide your payment information. Note that AWS requires a valid credit card to create an account, even for the free tier.
 
 
-10. Once you have entered your payment information, click on the "Secure Submit/ Submit" button.
+* Once you have entered your payment information, click on the "Secure Submit/ Submit" button.
 
 
-11. AWS will perform some verification steps to confirm your identity and payment details.
+* AWS will perform some verification steps to confirm your identity and payment details.
 
 
-12. After the verification process is complete, you will receive a confirmation email with further instructions.
+* After the verification process is complete, you will receive a confirmation email with further instructions.
 
 Congratulations! You have successfully created a free tier personal account with AWS.
 
